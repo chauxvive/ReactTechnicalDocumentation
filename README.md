@@ -14,26 +14,26 @@
 
 ### Project:
 
-A technical documentation demo for Free Code Camp's Responsive Design curriculum
+A technical documentation demo for Free Code Camp's Responsive Design Certificate curriculum
 
 ### The Problem:
 
-Create a one-page "Tribute Page" for a chosen hero in the style of [this site]( https://codepen.io/freeCodeCamp/full/zNqgVx).
+Create a one-page "Technical Documentation" for a chosen technology in the style of [this site]( https://codepen.io/freeCodeCamp/full/NdrKKL).
   
-* Must complete a series of [user stories](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+* Must complete a series of [user stories](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 
-* Must be aesthetically pleasing and use only html and css
+* Must be aesthetically pleasing and use HTML and CSS
 
 ### Why React?
 
 ![React Wordmark](https://res.cloudinary.com/mpauldesigns/image/upload/v1535207152/React_logo_wordmark.png)
 
-Richard Feynman was an incredible polymath and insatiably curious. As a teacher, I have studied his techniques and lessons and appreciate that one doesn't really understand a subject until one can break it down and explain it in simple words. In his unusual methods, troublemaking antics, and offbeat sense of humor I find a kindred spirit.
+React is a simple and lightweight framework with a component-based structure I enjoy. I like to mix and match pieces and build with small testable units.
 
 ### Technologies Used:
 
-Simple html with an open-source digital newspaper stylesheet and Bootstrap.
+HTML and CSS flexbox
 
 ### Future upgrades:
 
-Now that I've had more experience with responsive design and flexbox, I'd like to make this cleaner on different screen-sizes and optimized for mobile. I would add more whitespace and tweak the scales between elements. I would also love to add a Feynman video, booklist, online course reference, or sound clip.
+There's a slight bug with where the hotlinks go on the page where things are sometimes covered by the sticky menu on mobile screens. I would definitely like to figure that one out.
