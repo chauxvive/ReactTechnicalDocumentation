@@ -26,6 +26,8 @@ Create a one-page "Tribute Page" for a chosen hero in the style of [this site]( 
 
 ### Why React?
 
+![React Wordmark](https://res.cloudinary.com/mpauldesigns/image/upload/v1535207152/React_logo_wordmark.png)
+
 Richard Feynman was an incredible polymath and insatiably curious. As a teacher, I have studied his techniques and lessons and appreciate that one doesn't really understand a subject until one can break it down and explain it in simple words. In his unusual methods, troublemaking antics, and offbeat sense of humor I find a kindred spirit.
 
 ### Technologies Used:
