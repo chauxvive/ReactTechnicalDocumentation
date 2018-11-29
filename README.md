@@ -1,21 +1,20 @@
-# ReactTechnicalDocumentation
-A technical documentation demo for Free Code Camp's Responsive Design curriculum
+
 
 ![Rocktzar logo](https://res.cloudinary.com/mpauldesigns/image/upload/c_scale,q_100,w_200/v1540421311/rocktzar_red.png)
 
-# Richard Feynman Tribute Page
+# React Technical Documentation
 
-![Richard Feynman](https://res.cloudinary.com/mpauldesigns/image/upload/v1540421885/Feynman_1.jpg)
+![Yellowstone Spring, Mary Paul](https://res.cloudinary.com/mpauldesigns/image/upload/v1522457895/_3_DSC0345_b.jpg)
 
->“Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”
+>“Even if there is endless documentation, it would be impossible to know what a man thought inside his own mind... This is where the novelist's creative imagination has to take over”
 
->― Richard P. Feynman
+>― Irving Stone
 
 ---
 
 ### Project:
 
-This is my Feynman Tribute Page from Free Code Camp's Responsive Design Certificate. It's a simple one-page project using the Chicago Tribune stylesheet for a clean, newspaper-like look.
+A technical documentation demo for Free Code Camp's Responsive Design curriculum
 
 ### The Problem:
 
@@ -25,7 +24,7 @@ Create a one-page "Tribute Page" for a chosen hero in the style of [this site]( 
 
 * Must be aesthetically pleasing and use only html and css
 
-### Why Feynman?
+### Why React?
 
 Richard Feynman was an incredible polymath and insatiably curious. As a teacher, I have studied his techniques and lessons and appreciate that one doesn't really understand a subject until one can break it down and explain it in simple words. In his unusual methods, troublemaking antics, and offbeat sense of humor I find a kindred spirit.
 
