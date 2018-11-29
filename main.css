@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: #00D8FF;
+}
+
+nav a {
+    text-decoration: none;
+    color: #00D8FF;
+}
+
+a:visted {
+    color: grey;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+}
+
+header li {
+    /* border-style:solid;
+  border-width:.5px; */
+}
+
+section {
+    border: 1px solid grey;
+    padding: 15px;
+    margin: 10px;
+}
+
+#main-doc header {
+    border: 1px solid grey;
+    padding-left: 25px;
+    font-size: 1.25em;
+}
+
+
+
+
+/*---------------------flex stuff-------------------------- */
+
+.body {
+    display: flex;
+    /*min-height:100vh;
+  flex-direction:column;
+  border: 5px solid goldenrod; */
+}
+
+#header {
+    /* display:flex; */
+    /*border:5px solid green; */
+    flex: 0 0 15em;
+    flex-direction: column;
+    background: #202020;
+    position: fixed;
+    height: 100vh;
+    margin-top: 0px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#header img {
+    height: 50px;
+    /* border: 5px solid blue;*/
+    display: block;
+    padding: 6px 5px;
+}
+
+#nav-bar {
+    /*border: 5px solid;*/
+    height: 100%;
+    font-size: 1.1em;
+    margin: 5px;
+}
+
+#nav-bar ul {
+    /* border: 5px solid yellow;*/
+    padding: 5px;
+    /*position:fixed;*/
+}
+
+#main-doc {
+    display: flex;
+    float: right;
+    flex-direction: column;
+    flex: 1;
+    /* border:5px solid red; */
+    min-width: 200px;
+    padding: 10px;
+    padding-left: 14.5em;
+
+    margin: 5px;
+}
+
+#nav-bar li {
+    margin: auto;
+}
+
+code {
+    background: #00D8FF;
+    color: black;
+}
+
+/*---------------SIMPLE STYLING--------------- */
+
+#main-doc h2 {
+    border-bottom: 1px solid grey;
+    padding: 0px 5px;
+    padding-top: 25px;
+    margin: 0px 5px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding: 5px 0px;
+}
+
+
+/*------------------MEDIA QUERIES---------------*/
+@media only screen and (max-width: 480px) {
+    #header {
+        background: black;
+        position: fixed;
+        padding-top: 0px;
+        margin-top: 0px;
+        height: 30vh;
+        width: 100%;
+    }
+
+    body {
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+
+    #main-doc {
+        padding-left: 0px;
+        padding-top: 12em;
+    }
+
+}
