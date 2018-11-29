@@ -22,7 +22,7 @@ Create a one-page "Technical Documentation" for a chosen technology in the style
   
 * Must complete a series of [user stories](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 
-* Must be aesthetically pleasing and use HTML and CSS
+* Must be aesthetically pleasing, mobile-friendly, and use HTML and CSS
 
 ### Why React?
 
@@ -32,7 +32,7 @@ React is a simple and lightweight framework with a component-based structure I e
 
 ### Technologies Used:
 
-HTML and CSS flexbox
+HTML5 and CSS flexbox
 
 ### Future upgrades:
 
